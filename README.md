@@ -17,7 +17,7 @@ Uygulama Gereksinimleri ve POM Dosyası
 Spring Boot ile yazacağımız uygulamamız,
 Kullanıcı adı, soyadı ve adresi alınmıştır ve üye kaydı sağlanmıştır. Sonra da tablodaki tüm üye listeleri gösterilmiştir. Gösterilen üyelerde bilgilerin düzenlenmesi ve üye silme işlevselliği kazandırılmıştır.
 
-Proje de MySQL workbench de veritabanı hazırlanmıştır. Hazırlanan veritabanının ismi userdb dir. İstenildiği taktirde resources/application.properties dosyasından veritabanı ismi değiştirilebilir. Bu dosyada mysql ve hibernate konfigürasyonları bulunmaktadır. 
+Proje de MySQL workbench de veritabanı hazırlanmıştır. Hazırlanan veritabanının ismi userdb dir. İstenildiği taktirde resources/application.properties dosyasından veritabanı ismi değiştirilebilir. Bu dosyada jsp, mysql ve hibernate konfigürasyonları bulunmaktadır. 
 
 Hibernate konfigürasyonu kullanılarak veritabanında tablonun oluşması kolaylaştırılmıştır. Aynı zamanda tablo içinde Column ların içi sql kodlarının karşmaşıklığından kurtulup Hibernate orm mantığıyla rahatlıkla doldurulmuştur.
 
