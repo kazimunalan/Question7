@@ -10,6 +10,8 @@ Spring Boot, Spring tabanlı uygulama geliştirmenin en hızlı ve kolay yolu ol
 
 Spring Boot’un sağladığı en büyük avantajlardan biri ise sizi herhangi bir XML konfigürasyonuyla uğraşmak zorunda bırakmaması.
 
+Tasarım için Bootstrap kullanılmıştır.
+
 Uygulama Gereksinimleri ve POM Dosyası
 
 Spring Boot ile yazacağımız uygulamamız,
