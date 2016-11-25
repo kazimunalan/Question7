@@ -1,4 +1,4 @@
-CREATE DATABASE  IF NOT EXISTS 'tasksdb';
+CREATE DATABASE  IF NOT EXISTS 'userdb';
 USE 'tasksdb';
 
 CREATE TABLE `tasksdb`.`t_tasks` (
